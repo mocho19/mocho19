@@ -1,0 +1,9 @@
+Invoice: INV-104
+Vendor: Northwind Demo Studio
+Currency: EUR
+Item: Security architecture workshop | 2 | 150.00
+Item: Written handover | 1 | 80.00
+Subtotal: 380.00
+Tax: 87.40
+Total: 467.40
+Due: 2026-12-15
