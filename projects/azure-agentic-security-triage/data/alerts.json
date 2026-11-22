@@ -1,0 +1,24 @@
+{
+  "ALERT-001": {
+    "id": "ALERT-001",
+    "title": "Unusual sign-in pattern for a synthetic identity",
+    "category": "identity",
+    "severity": "medium",
+    "resource": "demo-user@example.invalid",
+    "evidence": [
+      {"id": "E-101", "observation": "Two successful sign-ins from distant regions within five minutes."},
+      {"id": "E-102", "observation": "Device registration is unknown. VPN use has not been checked."}
+    ]
+  },
+  "ALERT-002": {
+    "id": "ALERT-002",
+    "title": "Public access setting on a synthetic storage container",
+    "category": "storage",
+    "severity": "high",
+    "resource": "demo-storage/synthetic-container",
+    "evidence": [
+      {"id": "E-201", "observation": "Fixture reports anonymous blob access enabled."},
+      {"id": "E-202", "observation": "Data classification and intended public availability are unknown."}
+    ]
+  }
+}
