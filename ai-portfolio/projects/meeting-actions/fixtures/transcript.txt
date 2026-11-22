@@ -1,0 +1,7 @@
+Meeting: Demo platform handover
+Maya: Decision: Use synthetic data for the client demonstration.
+ACTION: Maya | Update the deployment runbook | 2026-12-02
+Omar: I will review the access policy by 2026-12-03.
+Priya: Blocker: We still need the customer's approved data retention period.
+ACTION: Unassigned | Confirm the acceptance criteria | not set
+Maya: We discussed an optional dashboard; no owner or date agreed.

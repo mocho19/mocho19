@@ -1,0 +1,4 @@
+# Optional: offline CLI and web demos use Python's standard library only.
+azure-ai-projects==2.11.0
+azure-identity>=1.25.0,<2
+openai>=2.0.0,<3

@@ -1,0 +1,9 @@
+Client: Northstar Demo Services
+Problem: Our support team spends hours searching policy documents.
+Users: 12 support analysts
+Data: Internal Markdown and PDF policy documents
+Integrations: Microsoft Teams, SharePoint
+Requirements: Answers must cite sources; managers approve access; no customer data in the demo.
+Deadline: Pilot in six weeks
+Estimate hours: 60
+Hourly rate EUR: 70

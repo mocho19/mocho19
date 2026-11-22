@@ -1,0 +1,10 @@
+Contract: DEMO-MSA-07
+Supplier: Example Analytics Ltd (synthetic)
+End date: 2027-02-28
+Notice period: 60 days
+Renewal: Automatically renews for one year unless written notice is received.
+Security: Supplier maintains access controls and annual security testing.
+Breach notification: Supplier informs the customer within 48 hours of confirmed personal data breach.
+Data processing: A signed data processing agreement is required before personal data is shared.
+Subprocessors: Customer receives advance notice of new subprocessors.
+Liability: Aggregate liability is limited to fees paid in the preceding twelve months.

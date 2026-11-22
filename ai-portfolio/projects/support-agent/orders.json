@@ -1,0 +1,5 @@
+{
+  "ORD-1001": {"order_id":"ORD-1001","status":"delayed_in_transit","product":"Demo desk lamp","ordered_on":"2026-11-12","delivered_on":null,"update":"Carrier scan received on 2026-11-18; revised delivery date is unconfirmed."},
+  "ORD-1002": {"order_id":"ORD-1002","status":"delivered","product":"Demo notebook","ordered_on":"2026-11-05","delivered_on":"2026-11-10","update":"Sample record marked delivered on 2026-11-10; receipt has not been independently confirmed."},
+  "ORD-1003": {"order_id":"ORD-1003","status":"delivered","product":"Demo backpack","ordered_on":"2026-09-02","delivered_on":"2026-09-08","update":"Sample record marked delivered on 2026-09-08; condition and exclusions are unknown."}
+}

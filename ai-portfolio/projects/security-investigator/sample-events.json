@@ -1,0 +1,44 @@
+{
+  "events": [
+    {
+      "id": "EV-001",
+      "timestamp": "2026-11-20T10:00:00Z",
+      "user": "analyst@example.invalid",
+      "action": "sign_in",
+      "outcome": "failure",
+      "ip": "192.0.2.10"
+    },
+    {
+      "id": "EV-002",
+      "timestamp": "2026-11-20T10:01:00Z",
+      "user": "analyst@example.invalid",
+      "action": "sign_in",
+      "outcome": "failure",
+      "ip": "192.0.2.10"
+    },
+    {
+      "id": "EV-003",
+      "timestamp": "2026-11-20T10:02:00Z",
+      "user": "analyst@example.invalid",
+      "action": "sign_in",
+      "outcome": "failure",
+      "ip": "192.0.2.10"
+    },
+    {
+      "id": "EV-004",
+      "timestamp": "2026-11-20T10:03:00Z",
+      "user": "analyst@example.invalid",
+      "action": "sign_in",
+      "outcome": "success",
+      "ip": "192.0.2.10"
+    },
+    {
+      "id": "EV-005",
+      "timestamp": "2026-11-20T10:05:00Z",
+      "user": "storage-admin@example.invalid",
+      "action": "public_access_enabled",
+      "outcome": "success",
+      "resource": "demo-container"
+    }
+  ]
+}
